@@ -1,7 +1,7 @@
 # LLM-Evaluation-Portfolio-
 Clean-room prompt engineering and LLM evaluation projects demonstrating instruction writing, rubric design, grounded generation, and reasoning evaluation using synthetic data.
-#3 Overview
 
+## Overview
 This repository contains clean-room prompt engineering and LLM evaluation projects designed to demonstrate instruction writing, rubric design, grounded generation, and reasoning evaluation using fully synthetic data.
 
 The focus is on **reliability, constraint enforcement, and evaluatability**, rather than creative prompting or model-specific tricks.
